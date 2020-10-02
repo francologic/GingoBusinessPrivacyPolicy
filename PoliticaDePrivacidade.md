@@ -1,4 +1,4 @@
-<h1>Política do Gingo Business</h1>
+<h1>Política do Gingo & Gingo Business</h1>
 <h2>Armazenamento de Informações</h2>
 Recebemos seu e-mail, seu número de telefone e o nome de seu estabelecimento quando uma conta Gingo Business é criada por você. Recebemos sua localização atual a partir da Geolocalização de seu aparelho. Você confirma autorização para fornecer tais dados. Sua foto de perfil e horario de atendimento tambem podem ser disponibilizados na sua conta.
 Suas mensagens são criptografadas ponta-a-ponta e excluída de nossos servidores após a entrega, sendo armazenada somente em seu dispositivo. Caso não seja possivel a transferência, ela ficará em nossos servidores até o termino da operação.
